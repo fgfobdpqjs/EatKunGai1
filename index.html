@@ -2,8 +2,8 @@
 <html>
 
 <head>
-    <title>吃掉小猫猫</title>
-    <meta itemprop="name" content="吃掉小猫猫！" />
+    <title>吃掉蔡徐坤</title>
+    <meta itemprop="name" content="吃掉蔡徐坤！" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
     <meta name="viewport"
@@ -31,9 +31,11 @@
             <button type="button" class="btn btn-secondary btn-lg"
                 onclick="hideGameScoreLayer();showWelcomeLayer();gameRestart()">返回主页</button>
             <button type="button" class="btn btn-secondary btn-lg"
-                onclick="window.location.href='https://github.com/Eafoo/eatcat'">源代码(改版后)</button>
+                onclick="window.location.href='https://github.com/Eafoo/eatcat'">GitHub(三次改版)</button>
             <button type="button" class="btn btn-secondary btn-lg"
-                onclick="window.location.href='https://github.com/arcxingye/EatKano'">源代码(原版)</button>
+                onclick="window.location.href='https://github.com/Eafoo/eatcat'">GitHub(改版后)</button>
+            <button type="button" class="btn btn-secondary btn-lg"
+                onclick="window.location.href='https://github.com/arcxingye/EatKano'">GitHub</button>
             <button type="button" class="btn btn-secondary btn-lg"
                 onclick="window.location.href='https://space.bilibili.com/470549205'">作者的B站主页</button>
         </div>
@@ -43,14 +45,14 @@
         <div class="welcome-bg FILL"></div>
         <div class="FILL BOX-M" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;">
             <div style="margin:0 8% 0 9%;">
-                <div style="font-size:1.2em; color:#FEF002;" id="tt">吃掉小猫猫（支持高度自定义~）</div><br />
+                <div style="font-size:1.2em; color:#FEF002;" id="tt">吃掉蔡徐坤（支持高度自定义~）</div><br />
                 <div style="font-size: 1.0em; color:rgb(45, 255, 4); line-height:1.5em;" id="tttt">
                     更新公告：现在可以设置垂直判定啦！<br />
                 </div>
                 <div style="font-size: 1.0em; color:#fff; line-height:1.5em;" id="ttt">
-                    从最底下小猫猫开始<br />
-                    看看您能吃多少猫猫~<br />
-                    注：设置里有很多好东西哟！<br />
+                    从最底下坤坤开始<br />
+                    看看您能吃多少坤坤~<br />
+                    注：设置里有很多坤坤哟！<br />
                     电脑玩家在默认设置下 <br />
                     键盘上的DFJK键<br />
                     可分别控制四个轨道哦！<br />
@@ -61,20 +63,20 @@
                     <button type="button" class="btn btn-secondary btn-lg" onclick="show_setting()">游戏设置</button>
                     <br /><br />
                     <button type="button" class="btn btn-secondary btn-lg"
-                        onclick="foreach()">若出现了bug点击此按钮后刷新界面</button>
+                        onclick="foreach()">若出现了bug(坤坤放的BUG)点击此按钮后刷新界面</button>
                     <br /><br />
                 </div>
 
                 <div id="btn_group2" style="display: block;">
-                    <h2 style="font-size:1.0em; color:#fff; line-height:1.5em;">一键设置特殊键型（若按键全部消失请刷新界面）</h2>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('!')">纯随机</button>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('@')">无纵连的随机</button>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('@#')">短纵</button>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('2')">全纵连</button>
+                    <h2 style="font-size:1.0em; color:#fff; line-height:1.5em;">一键设置特殊键型（若按键全部消失请刷新界面,坤坤弄得）</h2>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('!')">纯随机 addd</button>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('@')">无纵连的随机 哈</button>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('@#')">短纵 什么</button>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('2')">全纵连 wdf</button>
                     <br><br>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('32')">交互</button>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="stair()">楼梯</button>
-                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('@##')">三纵</button>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('32')">交互 干嘛</button>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="stair()">楼梯 哪里有楼梯了</button>
+                    <button type="button" class="btn btn-secondary btn-lg" onclick="autoset('@##')">三纵 饿</button>
                 </div>
                 <div id="setting1" style="display: none;">
                     <h3 style="font-size:1.0em; color:#fff; line-height:1.3em;">
@@ -110,12 +112,12 @@
                 </div>
                 <div id="setting2" style="display: none;">
                     <h3 style="font-size:1.0em; color:#fff; line-height:1.3em;">
-                        关闭音效
+                        关闭音效 真关了话就听不见坤坤的惨叫声了哦
                     </h3>
                     <input type="checkbox" class="rradio" id="close">
                     <br>
                     <h3 style="font-size:1.0em; color:#fff; line-height:1.3em;">
-                        隐藏结算后显示的评语
+                        隐藏结算后显示的评语 关了别进GitHub好吧
                     </h3>
                     <input type="checkbox" id="hide" class="rradio">
                     <br>
