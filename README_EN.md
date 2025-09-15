@@ -19,3 +19,19 @@ A web game: EatKun
 [GitHub](https://github.com/fgfobdpqjs)
 |
 [Play](https://chicxk.pages.dev/gai1/)
+
+## Used items and their licenses
+
+1. EatKano ([GitHub](https://github.com/arcxingye/EatKano) License: Not)
+
+1. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
+
+3. Bootstrap v4.3.1 ([Websize](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
+
+4. CREATEJS v1.0.0 ([Websize](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
+
+5. JSEncrypt ([Websize](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
+
+## Others
+
+This project is licensed under the [BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/LICENSE). When using this project, please acknowledge the original author and do not publish under the original author's name.
