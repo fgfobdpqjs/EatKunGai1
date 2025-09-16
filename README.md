@@ -26,7 +26,7 @@ _🦌 网页小游戏 🥛_
 
 1. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
 
-3. Bootstrap v4.3.1 ([Websize](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
+3. Bootstrap v4.3.1 ([Websize](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
 
 4. CREATEJS v1.0.0 ([Websize](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
 
