@@ -22,15 +22,15 @@ A web game: EatKun
 
 ## Used items and their licenses
 
-1. EatKano ([GitHub](https://github.com/arcxingye/EatKano) License: Not)
+1. EatKano (Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://github.com/arcxingye/EatKano/raw/refs/heads/main/LICENSE))
 
 1. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
 
-3. Bootstrap v4.3.1 ([Websize](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
+3. Bootstrap v4.3.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
 
-4. CREATEJS v1.0.0 ([Websize](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
+4. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
 
-5. JSEncrypt ([Websize](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
+5. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
 
 ## Others
 
