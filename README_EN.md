@@ -22,7 +22,7 @@ A web game: EatKun
 
 ## Used items and their licenses
 
-1. EatKano ((Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://github.com/arcxingye/EatKano/raw/refs/heads/main/LICENSE))
+1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://github.com/arcxingye/EatKano/raw/refs/heads/main/LICENSE))
 
 1. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
 
