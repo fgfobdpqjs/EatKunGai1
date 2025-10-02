@@ -745,7 +745,7 @@ function stair() {
     gameRestart();
 }
 
-function URL(url) {
+function openSourceCode(url) {
     var confirmation = confirm("您确定要跳转到其他网站吗？"); // Display the confirmation prompt
     if (confirmation) {
         window.location.href = url; // If the user confirms, proceed with the URL redirection
