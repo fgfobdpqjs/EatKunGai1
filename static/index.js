@@ -746,16 +746,16 @@ function stair() {
 }
 
 function goRepo() {
-    let link = 'https://github.com/fgfobdpqjs/EatKunGai1';
-    window.location.href = link;
+    let link1 = 'https://github.com/fgfobdpqjs/EatKunGai1';
+    window.location.href = link1;
 }
 
 function seeLicense() {
-    let link = './LICENSE';
-    window.location.href = link;
+    let link2 = './LICENSE';
+    window.location.href = link2;
 }
 
 function useProject() {
-    let link = 'https://github.com/fgfobdpqjs/EatKunGai1/blob/main/README_EN.md#used-items-and-their-licenses';
-    window.location.href = link;
+    let link3 = 'https://github.com/fgfobdpqjs/EatKunGai1/blob/main/README_EN.md#used-items-and-their-licenses';
+    window.location.href = link3;
 }

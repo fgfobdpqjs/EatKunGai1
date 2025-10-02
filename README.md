@@ -24,15 +24,17 @@ _🦌 网页小游戏 🥛_
 
 ## 使用的项目及其许可证
 
-1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://github.com/arcxingye/EatKano/raw/refs/heads/main/LICENSE))
+1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
 
 2. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
 
-3. Bootstrap v4.3.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
+3. EatKun ([GitHub](https://github.com/fgfobdpqjs/EatKun) [License: BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE))
 
-4. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
+4. Bootstrap v4.3.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
 
-5. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
+5. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
+
+6. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
 
 ## 其它事项
 
