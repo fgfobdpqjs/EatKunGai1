@@ -26,7 +26,7 @@ _🦌 网页小游戏 🥛_
 
 1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://github.com/arcxingye/EatKano/raw/refs/heads/main/LICENSE))
 
-1. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
+2. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
 
 3. Bootstrap v4.3.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
 

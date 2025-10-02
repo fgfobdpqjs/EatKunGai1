@@ -744,3 +744,18 @@ function stair() {
     len = (__k - 1) * 2;
     gameRestart();
 }
+
+w.goRepo = function() {
+    let link = 'https://github.com/fgfobdpqjs/EatKunGai1';
+    window.location.href = link;
+}
+
+w.seeLicense = function() {
+    let link = './LICENSE';
+    window.location.href = link;
+}
+
+w.useProject = function() {
+    let link = 'https://github.com/fgfobdpqjs/EatKunGai1/blob/main/README_EN.md#used-items-and-their-licenses';
+    window.location.href = link;
+}
