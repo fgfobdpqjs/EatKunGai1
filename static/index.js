@@ -745,17 +745,9 @@ function stair() {
     gameRestart();
 }
 
-function goRepo(link) {
-    let link = 'https://github.com/fgfobdpqjs/EatKunGai1';
-    window.location.href = link;
-}
-
-function seeLicense(link) {
-    let link = './LICENSE';
-    window.location.href = link;
-}
-
-function useProject(link) {
-    let link = 'https://github.com/fgfobdpqjs/EatKunGai1/blob/main/README_EN.md#used-items-and-their-licenses';
-    window.location.href = link;
+function URL(url) {
+    var confirmation = confirm("您确定要跳转到其他网站吗？"); // Display the confirmation prompt
+    if (confirmation) {
+        window.location.href = url; // If the user confirms, proceed with the URL redirection
+    }
 }
