@@ -38,6 +38,10 @@ A web game: EatKun
 
 7. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
 
+## Disclaimer
+
+This game has no association with 蔡徐坤 or his management team and is for entertainment purposes only.
+
 ## Others
 
 This project is licensed under the [BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/LICENSE). When using this project, please acknowledge the original author and do not publish under the original author's name.
