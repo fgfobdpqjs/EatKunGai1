@@ -1,0 +1,8 @@
+# 忽略
+*
+
+# 保留
+!/.gitignore
+!/LICENSE-code
+!/LICENSE-text
+!/README.md
