@@ -22,25 +22,25 @@ _🦌 网页小游戏 🥛_
 |
 [Github Pages](https://fgfobdpqjs.github.io/EatKunGai1/)
 
-## 使用的项目及其许可证
-
-1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
-
-2. EatCat ([GitHub](https://github.com/122440367/eatcat) License: Not)
-
-3. EatCat ([GitHub](https://github.com/Webpage-gh/eatcat) License: Not)
-
-4. EatKun ([GitHub](https://github.com/fgfobdpqjs/EatKun) [License: BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE))
-
-5. Bootstrap v4.3.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
-
-6. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
-
-7. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
-
 ## 免责声明
 
 本游戏与蔡徐坤本人及其经纪团队无任何关联，仅供娱乐。
+
+## 使用的项目及其许可证
+
+1. EatKano ([网站](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [许可证: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
+
+2. EatCat ([Github](https://github.com/122440367/eatcat) 许可证: 未知)
+
+3. EatCat ([Github](https://github.com/Webpage-gh/eatcat) 许可证: 未知)
+
+4. EatKun ([Github](https://github.com/fgfobdpqjs/EatKun) [许可证: BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE))
+
+5. Bootstrap v4.3.1 ([网站](https://getbootstrap.com/) [Github](https://github.com/twbs/bootstrap/releases/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
+
+6. CREATEJS v1.0.0 ([网站](http://createjs.com/) [Github](https://github.com/CreateJS/CreateJS) [许可证: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
+
+7. JSEncrypt ([网站](https://travistidwell.com/jsencrypt) [Github](https://github.com/travist/jsencrypt) [许可证: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
 
 ## 其它事项
 
