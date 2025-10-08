@@ -44,4 +44,4 @@ This game has no association with 蔡徐坤 or his management team and is for en
 
 ## Others
 
-This project is licensed under the [BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/LICENSE). When using this project, please acknowledge the original author and do not publish under the original author's name.
+This project is licensed under the [BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE) and [Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE-text). When using this project, please acknowledge the original author and do not publish under the original author's name.
