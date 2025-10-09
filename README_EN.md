@@ -26,10 +26,6 @@ A web game: EatKun
 
 This game has no association with 蔡徐坤 or his management team and is for entertainment purposes only.
 
-## Star statistics
-
-[![Stargazers over time](https://starchart.cc/fgfobdpqjs/EatKunGai1.svg?variant=adaptive)](https://starchart.cc/fgfobdpqjs/EatKunGai1)
-
 ## Used items and their licenses
 
 1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
@@ -45,6 +41,10 @@ This game has no association with 蔡徐坤 or his management team and is for en
 6. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
 
 7. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
+
+## Star statistics
+
+[![Stargazers over time](https://starchart.cc/fgfobdpqjs/EatKunGai1.svg?variant=adaptive)](https://starchart.cc/fgfobdpqjs/EatKunGai1)
 
 ## Others
 
