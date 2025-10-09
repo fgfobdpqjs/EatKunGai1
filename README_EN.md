@@ -26,7 +26,7 @@ A web game: EatKun
 
 This game has no association with 蔡徐坤 or his management team and is for entertainment purposes only.
 
-## Star Statistics
+## Star statistics
 
 [![Stargazers over time](https://starchart.cc/fgfobdpqjs/EatKunGai1.svg?variant=adaptive)](https://starchart.cc/fgfobdpqjs/EatKunGai1)
 
