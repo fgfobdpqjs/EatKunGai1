@@ -26,6 +26,8 @@ _🦌 网页小游戏 🥛_
 
 本游戏与蔡徐坤本人及其经纪团队无任何关联，仅供娱乐。
 
+`static/image`、`static/music`内容来自网络，若侵权可在[Issues](https://github.com/fgfobdpqjs/EatKunGai1/issues)联系删除，并附上`delete`标签。
+
 ## 使用的项目及其许可证
 
 1. EatKano ([网站](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [许可证: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
