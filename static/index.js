@@ -421,7 +421,7 @@ function showGameScoreLayer() {
     let bast = cookie('bast-score');
     if (!bast || _gameScore > bast) {
         bast = _gameScore;
-        cookie('bast-score', bast, 100);
+        cookie('bast-score', bast, 36500);
     }
 
     document.getElementById('GameScoreLayer-bast').innerHTML = '历史最佳得分 ' + "<span style='color:red;'>" + bast + "</span>";
