@@ -26,7 +26,7 @@ _🦌 网页小游戏 🥛_
 
 本游戏与蔡徐坤本人及其经纪团队无任何关联，仅供娱乐。
 
-`static/image`、`static/music`内容来自网络，若侵权可在[Issues](https://github.com/fgfobdpqjs/EatKunGai1/issues)联系删除，并附上`delete`标签。
+`static/image`、`static/music`内容来自[爱给网](https://www.aigei.com/s?q=%E8%94%A1%E5%BE%90%E5%9D%A4&type=sound)，若侵权可在[Issues](https://github.com/fgfobdpqjs/EatKunGai1/issues)联系删除，并附上`delete`标签。
 
 ## 使用的项目及其许可证
 

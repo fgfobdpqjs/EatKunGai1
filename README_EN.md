@@ -26,7 +26,7 @@ A web game: EatKun
 
 This game has no association with 蔡徐坤 or his management team and is for entertainment purposes only.
 
-The content of `static/image` and `static/music` comes from the internet. If there is infringement, it can be found in [Issues](https://github.com/fgfobdpqjs/EatKunGai1/issues) Contact to delete and attach the 'delete' tag.
+The content of `static/image` and `static/music` comes from the [爱给网](https://www.aigei.com/s?q=%E8%94%A1%E5%BE%90%E5%9D%A4&type=sound). If there is infringement, it can be found in [Issues](https://github.com/fgfobdpqjs/EatKunGai1/issues) Contact to delete and attach the 'delete' tag.
 
 ## Used items and their licenses
 
