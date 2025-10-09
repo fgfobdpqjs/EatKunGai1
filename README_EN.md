@@ -26,6 +26,10 @@ A web game: EatKun
 
 This game has no association with 蔡徐坤 or his management team and is for entertainment purposes only.
 
+## Star Statistics
+
+[![Stargazers over time](https://starchart.cc/fgfobdpqjs/EatKunGai1.svg?variant=adaptive)](https://starchart.cc/fgfobdpqjs/EatKunGai1)
+
 ## Used items and their licenses
 
 1. EatKano ([Website](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [License: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))

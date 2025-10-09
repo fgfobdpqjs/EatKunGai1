@@ -26,6 +26,10 @@ _🦌 网页小游戏 🥛_
 
 本游戏与蔡徐坤本人及其经纪团队无任何关联，仅供娱乐。
 
+## Star 统计
+
+[![Stargazers over time](https://starchart.cc/fgfobdpqjs/EatKunGai1.svg?variant=adaptive)](https://starchart.cc/fgfobdpqjs/EatKunGai1)
+
 ## 使用的项目及其许可证
 
 1. EatKano ([网站](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [许可证: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
