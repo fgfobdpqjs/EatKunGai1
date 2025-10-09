@@ -52,4 +52,4 @@ The content of `static/image` and `static/music` comes from the [爱给网](http
 
 This project is authorized by [BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/LICENSE-code). When using this project, please indicate the source/original author and do not publish under the name of the original author.
 
-README.md and the Wiki of this project (currently unavailable, may exist in the future) are authorized to use [Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/LICENSE-text). When using this project, please indicate the source/original author.
+`README.md` / `README_EN.md` and the [Wiki](https://github.com/fgfobdpqjs/EatKunGai1/wiki) of this project (currently unavailable, may exist in the future) are authorized to use [Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/LICENSE-text). When using this project, please indicate the source/original author.
