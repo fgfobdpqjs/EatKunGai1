@@ -745,7 +745,7 @@ function stair() {
     gameRestart();
 }
 
-function openSourceCode(url) {
+function openWebpage(url) { // 使用了 https://github.com/Webpage-gh/eatcat 的代码
     var confirmation = confirm("您确定要跳转到其他网页吗？"); // Display the confirmation prompt
     if (confirmation) {
         window.location.href = url; // If the user confirms, proceed with the URL redirection
