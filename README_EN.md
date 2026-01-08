@@ -14,7 +14,7 @@ _🦌 Web Game 🥛_
 
 A web game: EatKun
 
-Latest version: 0.0.1
+Latest version: 0.0.1 (There is a temporary error, please use version [0.0.0](https://github.com/fgfobdpqjs/EatKunGai1/tree/0.0.0).)
 
 [Chinese](README.md)
 |
@@ -44,7 +44,7 @@ The content of `static/image` and `static/music` comes from the [爱给网](http
 
 5. Bootstrap v4.3.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/tag/v4.3.1) [License: MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/files/license/github.twbs.bootstrap_LICENSE.txt))
 
-6. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt)
+6. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt))
 
 7. JSEncrypt ([Website](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [License](https://raw.githubusercontent.com/fgfobdpqjs/EatKunGai1/refs/heads/main/files/license/github.travist.jsencrypt_LICENSE.txt))
 
